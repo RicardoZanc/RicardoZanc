@@ -18,5 +18,5 @@
           
 ##
 
-- A contact list using ElectronJs, also made for my recently finished course.
+- A contact list that stores data in a json file, this project was also made for my recently finished course.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="20" width="20"/>
