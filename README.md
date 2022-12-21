@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Ricardo Zancan da Costa, i live in Brazil and my current goal is working with development.
+Nowadays i'm studying C#, although i've already made my first CRUD using Node.js and PostgreSQL for backend and React.Js for frontend, that project was made as a test in a course i've recently finished.
+
 <!--
 **RicardoZanc/RicardoZanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
