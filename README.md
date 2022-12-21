@@ -5,7 +5,17 @@
 
 ### Nowadays i'm studying C#, although i've already made two projects using JavaScript:
 
-
 - A CRUD using Node.js and PostgreSQL for backend and React.Js for frontend, that project was made as a test in a course i've recently finished.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="20" width="20"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
+         
+
+          
+ 
+          
+##
 
 - A contact list using ElectronJs, also made for my recently finished course.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="20" width="20"/>
