@@ -1,7 +1,7 @@
 # Welcome
 
-## - My name is Ricardo Zancan da Costa 
-## - I live in Brazil and my current goal is working with development.
+## My name is Ricardo Zancan da Costa 
+## I live in Brazil and my current goal is working with development.
 
 ### Nowadays i'm studying C#, although i've already made two projects using JavaScript:
 
