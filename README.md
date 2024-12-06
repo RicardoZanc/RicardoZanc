@@ -1,22 +1,19 @@
-# Welcome
-
-## My name is Ricardo Zancan da Costa 
-## I live in Brazil and my current goal is working with development.
-
-### Nowadays i'm studying C#, although i've already made two projects using JavaScript:
-
-- A CRUD using Node.js and PostgreSQL for backend and React.Js for frontend, that project was made as a test in a course i've recently finished.
 <div>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" width="20"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="20" width="20"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" width="20"/>
-</div>     
-         
+          <h1>Hello! I'm Ricardo Zancan 👋</h1>
+          <p>I am a dedicated and creative full-stack developer in transition from a career in IT support to web development, with a focus on backend technologies. Passionate about solving problems, I leverage available tools and practical approaches to explore efficient and innovative solutions, building impactful projects.</p>
+</div>
+<div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=RicardoZanc&theme=radical"/>
+</div>
+<div>
+          <p>Currently, I am studying Vue.js and Laravel to strengthen my expertise in modern web development frameworks. I value simplicity and clarity in design and interfaces, aiming for user-friendly experiences that deliver high performance without unnecessary complexity.</p>
+</div>             
+<div>
+          <h2>📫 Let’s Connect:</h2>
+          <p>Feel free to reach out if you’d like to collaborate or discuss ideas!</p>
+          <a href="https://www.linkedin.com/in/ricardo-zancan-86b0bb228/" title="LinkedIn">
+                    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+          </a>
 
-          
- 
-          
-##
 
-- A contact list that stores data in a json file, this project was also made for my recently finished course.
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="20" width="20"/>
+</div>
