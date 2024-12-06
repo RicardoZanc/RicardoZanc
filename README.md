@@ -17,3 +17,9 @@
 
 
 </div>
+<div>
+          <h2>My skills 🧑‍💻</h2>
+          <div align="center">
+                    <img src="https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap,laravel,nodejs,express,cs,mysql,postgres,docker,postman,obsidian,js,html,css&perline=4"/>
+          </div>
+</div>
